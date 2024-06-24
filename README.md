@@ -22,6 +22,6 @@ You can find me on discord as `ottersec`, I also have a [Gitbook](https://otter.
 
 ```
 ʕ •ᴥ• ʔ 
-U * * U 
+U * * U  <---- he's watching
   U U
 ```
