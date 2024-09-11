@@ -16,6 +16,7 @@ I'm interested in red-teaming, malware development and evasion techniques
 
 You can find me on discord as `ottersec`, I also have a [Gitbook](https://otter.gitbook.io/red-teaming) where I post some cool articles - check it out if you want 🦦<br>
 
+- [Intro to Hypervisor Implants](https://otter.gitbook.io/red-teaming/articles/intro-to-hypervisor-implants)
 - [Dumping data from the Microsoft Recall folder](https://otter.gitbook.io/red-teaming/articles/dumping-data-from-the-microsoft-recall-folder)
 - [Gaining persistence on Windows with Time Providers](https://otter.gitbook.io/red-teaming/articles/gaining-persistence-on-windows-with-time-providers)
 - [Reverse engineering LSASS to decrypt DPAPI keys](https://otter.gitbook.io/red-teaming/articles/reverse-engineering-lsass-to-decrypt-dpapi-keys)
